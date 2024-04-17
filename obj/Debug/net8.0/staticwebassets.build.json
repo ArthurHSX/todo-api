@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "Tn7jpGrHPBZ5rY2TUUWK4rsO4kP+lnREtPzgtYrjHZ0=",
+  "Source": "todo-api",
+  "BasePath": "_content/todo-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "todo-api\\wwwroot",
+      "Source": "todo-api",
+      "ContentRoot": "C:\\Users\\psiupsiupsiu\\Projetos\\C#\\minimal-api\\todo-api\\wwwroot\\",
+      "BasePath": "_content/todo-api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\psiupsiupsiu\\Projetos\\C#\\minimal-api\\todo-api\\wwwroot\\index.html",
+      "SourceId": "todo-api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\psiupsiupsiu\\Projetos\\C#\\minimal-api\\todo-api\\wwwroot\\",
+      "BasePath": "_content/todo-api",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
